@@ -5,6 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './pages/Header';
 import EarlyEducation from './pages/EarlyEducation';
 import Skills from './pages/Skills';
+import WorkExperience from './pages/WorkExperience';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       {/* <Header /> */}
         <Profile />
         <Skills/>
+        <WorkExperience/>
         <EarlyEducation />
     </React.Fragment>
   );

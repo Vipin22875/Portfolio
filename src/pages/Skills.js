@@ -41,7 +41,7 @@ const Skills = () => {
         <React.Fragment>
             <div className='d-flex flex-column align-items-center justify-content-center'>
                 <div className='w-100 card-wrapper mt-5'>
-                    <h1 className='fs-42 fw-400 text-center portfolio-name mt-2 mb-3'>
+                    <h1 className='portfolio-bold-names ms-3'>
                         Skills
                     </h1>
                     <div className='d-flex flex-wrap justify-content-center w-100'>

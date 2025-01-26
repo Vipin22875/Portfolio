@@ -39,7 +39,7 @@ const EarlyEducation = () => {
     return (
         <React.Fragment>
             <div className='carousel-container mt-5'>
-            <h1 className='fs-42 fw-400 text-center portfolio-name'>
+            <h1 className='portfolio-bold-names'>
                 Education
             </h1>
             <Slider {...settings}>
