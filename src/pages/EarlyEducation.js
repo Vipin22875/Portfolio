@@ -45,7 +45,7 @@ const EarlyEducation = () => {
             <Slider {...settings}>
                 {EDUCATION.map((el, index) => (
                     <div key={index} className="slider-item">
-                        <div className="">
+                        <div className="border">
                             <img src={el.IMAGE} alt={el.TITLE} className="slider-image" />
                             <div className="overlay">
                                 <h3>{el.TITLE}</h3>
