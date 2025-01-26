@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vipin22875.github.io",
+  "homepage": "https://vipin22875.github.io/portfolio",
   "dependencies": {
     "animejs": "^3.2.2",
     "bootstrap": "^5.3.3",
