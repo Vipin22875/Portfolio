@@ -207,6 +207,7 @@ body {
   border-radius: 5px;
   max-height: fit-content;
   max-width: 60vw;
+  min-width: 60vw;
 }
 
 .portfolio-bold-names {
@@ -216,4 +217,11 @@ body {
   font-weight: 600;
   text-decoration: underline;
   text-align: center !important;
+}
+
+.project-images{
+  width: 400px;
+  height: 350px;
+  border-radius: 22px;
+  border: 1px solid black;
 }

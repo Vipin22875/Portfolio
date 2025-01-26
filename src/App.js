@@ -6,6 +6,7 @@ import Header from './pages/Header';
 import EarlyEducation from './pages/EarlyEducation';
 import Skills from './pages/Skills';
 import WorkExperience from './pages/WorkExperience';
+import Projects from './pages/Projects';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Profile />
         <Skills/>
         <WorkExperience/>
+        <Projects/>
         <EarlyEducation />
     </React.Fragment>
   );

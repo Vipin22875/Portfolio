@@ -17,7 +17,7 @@ const Profile = () => {
                             Iksha Labs.
                         </a>
                         <p>
-                            Passionate frontend developer with a robust foundation 
+                            Passionate software developer with a robust foundation 
                             in computer science and a keen eye for detail.
                         </p>
                         <p>
