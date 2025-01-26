@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0ecbf79a.css",
-    "main.js": "/portfolio/static/js/main.5cc8f85b.js",
-    "static/js/488.9561f9b8.chunk.js": "/portfolio/static/js/488.9561f9b8.chunk.js",
-    "static/media/university_home.jpg": "/portfolio/static/media/university_home.fae41b15eed3443316c7.jpg",
-    "static/media/highSchoolParatwada2.png": "/portfolio/static/media/highSchoolParatwada2.cac09bd0e8167ebf54df.png",
-    "static/media/cricket2.webp": "/portfolio/static/media/cricket2.a641ca7fb6977b88c456.webp",
-    "static/media/shoe.jpg": "/portfolio/static/media/shoe.bcec5f6f730af22e36e0.jpg",
-    "static/media/profile-image.jpg": "/portfolio/static/media/profile-image.5a16bc4160c66722731c.jpg",
-    "static/media/jr_college.jpg": "/portfolio/static/media/jr_college.87b61159c8d67850fa7a.jpg",
-    "static/media/dsa2.avif": "/portfolio/static/media/dsa2.ef26a67cd13b48422bf9.avif",
-    "static/media/os.png": "/portfolio/static/media/os.511f4bf3deb7603770de.png",
-    "static/media/uber.avif": "/portfolio/static/media/uber.5794530f4b49e1e3ea50.avif",
-    "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/portfolio/index.html",
-    "main.0ecbf79a.css.map": "/portfolio/static/css/main.0ecbf79a.css.map",
-    "main.5cc8f85b.js.map": "/portfolio/static/js/main.5cc8f85b.js.map",
-    "488.9561f9b8.chunk.js.map": "/portfolio/static/js/488.9561f9b8.chunk.js.map"
+    "main.css": "/static/css/main.1f990c41.css",
+    "main.js": "/static/js/main.cf63bacb.js",
+    "static/js/488.9561f9b8.chunk.js": "/static/js/488.9561f9b8.chunk.js",
+    "static/media/university_home.jpg": "/static/media/university_home.fae41b15eed3443316c7.jpg",
+    "static/media/highSchoolParatwada2.png": "/static/media/highSchoolParatwada2.cac09bd0e8167ebf54df.png",
+    "static/media/cricket2.webp": "/static/media/cricket2.a641ca7fb6977b88c456.webp",
+    "static/media/shoe.jpg": "/static/media/shoe.bcec5f6f730af22e36e0.jpg",
+    "static/media/profile-image.jpg": "/static/media/profile-image.5a16bc4160c66722731c.jpg",
+    "static/media/jr_college.jpg": "/static/media/jr_college.87b61159c8d67850fa7a.jpg",
+    "static/media/dsa2.avif": "/static/media/dsa2.ef26a67cd13b48422bf9.avif",
+    "static/media/os.png": "/static/media/os.511f4bf3deb7603770de.png",
+    "static/media/uber.avif": "/static/media/uber.5794530f4b49e1e3ea50.avif",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.1f990c41.css.map": "/static/css/main.1f990c41.css.map",
+    "main.cf63bacb.js.map": "/static/js/main.cf63bacb.js.map",
+    "488.9561f9b8.chunk.js.map": "/static/js/488.9561f9b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ecbf79a.css",
-    "static/js/main.5cc8f85b.js"
+    "static/css/main.1f990c41.css",
+    "static/js/main.cf63bacb.js"
   ]
 }
