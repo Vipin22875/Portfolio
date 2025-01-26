@@ -1,5 +1,8 @@
 import React from 'react';
 import profileImage from '../image/profile-image.jpg';
+import coepImage from '../image/university_home.jpg';
+import jrCollege from '../image/jr_college.jpg'
+import highSchool from '../image/highSchoolParatwada2.png'
 import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -9,17 +12,17 @@ const EarlyEducation = () => {
         {
             TITLE: 'College of Engineering Pune',
             DESCRIPTION: 'Graduated in 2023 from the College of Engineering, Pune (COEP), a state university established in 1854 and recognized as one of the oldest engineering institutions in Asia.',
-            IMAGE: profileImage,
+            IMAGE: coepImage,
         },
         {
             TITLE: 'Municipal Jr. College',
             DESCRIPTION: 'Completed HSC in 2018 as the town topper, achieving a perfect 100 in Mathematics and excelling across all subjects.',
-            IMAGE: profileImage,
+            IMAGE: jrCollege,
         },
         {
             TITLE: 'City High School',
             DESCRIPTION: 'Achieved a perfect 100 in Mathematics and outstanding results overall during SSC in 2016.',
-            IMAGE: profileImage,
+            IMAGE: highSchool,
         },
     ];
 
