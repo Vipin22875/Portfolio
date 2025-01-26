@@ -11,7 +11,7 @@ const EarlyEducation = () => {
     const EDUCATION = [
         {
             TITLE: 'College of Engineering Pune',
-            DESCRIPTION: 'Graduated in 2023 from the College of Engineering, Pune (COEP), a state university established in 1854 and recognized as one of the oldest engineering institutions in Asia.',
+            DESCRIPTION: 'Graduated B.Tech in 2023 from the College of Engineering, Pune (COEP), a state university established in 1854 and recognized as one of the oldest engineering institutions in Asia.',
             IMAGE: coepImage,
         },
         {
@@ -39,7 +39,7 @@ const EarlyEducation = () => {
     return (
         <React.Fragment>
             <div className='carousel-container mt-5'>
-            <h1 className='fs-45 fw-600 text-center portfolio-name text-decoration-underline'>
+            <h1 className='fs-42 fw-400 text-center portfolio-name'>
                 Education
             </h1>
             <Slider {...settings}>

@@ -4,12 +4,14 @@ import Profile from './pages/Profile';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './pages/Header';
 import EarlyEducation from './pages/EarlyEducation';
+import Skills from './pages/Skills';
 
 function App() {
   return (
     <React.Fragment>
       {/* <Header /> */}
         <Profile />
+        <Skills/>
         <EarlyEducation />
     </React.Fragment>
   );
