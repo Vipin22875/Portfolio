@@ -1,6 +1,25 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import anime from 'animejs';
 
 const Skills = () => {
+    useEffect(() => {
+        anime({
+            targets: '.skill-icon',
+            rotate: '360deg',
+            duration: 2000,
+            easing: 'easeInOutSine',
+            loop: true
+        });
+        anime({
+            targets: '.mysql',
+            translateY: [-10, 0],
+            duration: 600,
+            easing: 'easeInOutSine',
+            loop: true,
+            direction: 'alternate'
+        });
+    }, []);
+
     const SKILLS = [
         { key: 'React JS', name: 'react' },
         { key: 'Python', name: 'python' },
@@ -11,6 +30,12 @@ const Skills = () => {
         { key: 'Css', name: 'css' },
 
     ];
+
+    const getAnimationClasses = (name) => {
+        if (['react', 'redux'].includes(name)) return 'skill-icon';
+        else if (name === 'mysql') return 'mysql';
+        else return ''
+    }
 
     return (
         <React.Fragment>
@@ -24,7 +49,7 @@ const Skills = () => {
                             SKILLS.map((el) => {
                                 return (
                                     <div key={el.name} className={`text-center mx-4`}>
-                                        <i className={`ci ci-${el.name} ci-5x`}></i>
+                                        <i className={`ci ci-${el.name} ci-5x ${getAnimationClasses(el.name)}`}></i>
                                         <p className='portfolio-name'>{el.key}</p>
                                     </div>
                                 );
