@@ -223,5 +223,19 @@ body {
   width: 400px;
   height: 350px;
   border-radius: 22px;
-  border: 1px solid black;
+}
+
+.cv-button{
+  width: fit-content;
+  height: fit-content;
+  padding: 12px 22px;
+  border-radius: 26px;
+  color: #053b82;
+  border: 1px solid #053b82;
+  font-weight: bolder;
+}
+
+.cv-button:hover{
+  background-color: #053b82;
+  color: white;
 }

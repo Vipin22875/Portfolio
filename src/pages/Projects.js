@@ -66,7 +66,7 @@ const Projects = () => {
                             PROJECTS.map((el, index) => {
                                 return (
                                     <>
-                                        {index === 2 && <p className='portfolio-name fs-22 fw-600 text-deoration-underline mx-2'> Side Projects: </p>}
+
                                         <div className="accordion-item rounded sf-pro-shadow-wrapper mb-3 mx-2">
                                             <h2 className="accordion-header">
                                                 <button

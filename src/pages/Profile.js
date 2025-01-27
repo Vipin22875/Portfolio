@@ -2,13 +2,18 @@ import React from 'react'
 import { Card, CardBody, CardHeader } from 'reactstrap'
 import { SOCIAL_PLATOFORM } from './constants/portfolioConstants'
 import profileImage from '../image/profile-image.jpg'
+import resume from '../image/Resume.pdf'
 const Profile = () => {
     return (
         <React.Fragment>
             <div className='d-flex align-items-center justify-content-center mt-5 ms-4'>
                 <Card className='me-4 work-ex-card'>
-                    <div className='fw-600 text-bold ms-3 fs-45 portfolio-name'>
-                        Vipin Ingle
+                    <div className='d-flex align-items-center justify-content-between'>
+                        <div className='fw-600 text-bold ms-3 fs-45 portfolio-name'>
+                            Vipin Ingle
+                        </div>
+                        <a href={resume} className='cv-button me-3 text-decoration-none' download="Vipin-Resume">Download CV</a>
+
                     </div>
                     <CardBody className='fs-18'>
                         <div className='d-flex align-items-center'>

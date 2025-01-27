@@ -2,7 +2,7 @@ import React from 'react';
 import profileImage from '../image/profile-image.jpg';
 import coepImage from '../image/university_home.jpg';
 import jrCollege from '../image/jr_college.jpg'
-import highSchool from '../image/highSchoolParatwada2.png'
+import highSchool from '../image/highSchool.jpg'
 import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
