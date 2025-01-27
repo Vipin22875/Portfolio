@@ -27,7 +27,7 @@ const Skills = () => {
         { key: 'Javascript', name: 'js' },
         { key: 'Redux', name: 'redux' },
         { key: 'HTML', name: 'html' },
-        { key: 'Css', name: 'css' },
+        { key: 'CSS', name: 'css' },
 
     ];
 
